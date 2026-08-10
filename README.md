@@ -1,18 +1,45 @@
-# 💫 About Me:
-I’m Yayan Kurniawan, a Data Analyst dedicated to transforming complex datasets into clear, actionable insights. With expertise in data cleaning, transformation, and visualization, I specialize in turning raw information into meaningful stories that support better decision-making. My work bridges technical analysis with strategic storytelling, ensuring that insights are not only accurate but also accessible to diverse audiences.<br><br>Beyond technical skills, I focus on narrative-driven analytics—crafting bilingual reports, dashboards, and case studies that resonate with both technical and non-technical stakeholders. I believe every number has a story, and my mission is to uncover and share those stories in ways that inspire clarity, collaboration, and impact.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yayankurniawan2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yayan.kurniawan.y@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yayankurniawan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yayankurniawan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yayankurniawan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <h1>Hi there! 👋 I'm Yayan Kurniawan</h1>
+  <h3>Data Analyst | Data Scientist | Industrial Engineer</h3>
+  [cite_start]<p>Results-driven Data Analyst and Industrial Engineering graduate specializing in data visualization, advanced SQL, and predictive analytics[cite: 4].</p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yayankurniawan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+[cite_start]I have a proven track record of translating complex datasets into strategic business insights and interactive dashboards to drive data-informed decision-making[cite: 5]. [cite_start]With a strong foundation in process optimization and cross-functional problem-solving, I also utilize AWS cloud expertise to build scalable, future-ready data solutions[cite: 6]. [cite_start]Currently based in Garut, Indonesia[cite: 2].
+
+## 🛠️ Core Skills & Technologies
+* [cite_start]**Data Visualization & Analytics:** Google Looker Studio, Tableau, Power BI, Advanced Spreadsheets, Exploratory Data Analysis (EDA)[cite: 8].
+* [cite_start]**Programming & Machine Learning:** Advanced SQL, Python (Pandas, NumPy, Seaborn, Matplotlib), Predictive Modeling, ML Algorithms[cite: 9].
+* [cite_start]**Data Engineering & Cloud:** AWS Core Services, Docker, PostgreSQL, MySQL, Data Pipeline Orchestration[cite: 10].
+* [cite_start]**Administration & Business:** Risk Analysis, Process Optimization, Technical Communication, Cross-functional Leadership[cite: 11].
+
+## 📊 Featured Projects
+
+### 🚲 Bike Sharing Data Analytics & Optimization
+* [cite_start]**Tech Stack:** Python (Pandas, NumPy, Matplotlib), Streamlit[cite: 16, 17].
+* [cite_start]**Overview:** Spearheaded end-to-end exploratory data analysis (EDA) on a bike-sharing operational dataset of 18,000+ records[cite: 16].
+* [cite_start]**Highlights:** Designed and deployed a dynamic web-based dashboard via Streamlit to visualize critical metrics regarding weather impacts and user behavior patterns[cite: 17]. 
+* [cite_start]**Impact:** Translated data findings into actionable distribution strategies to optimize future bike fleet positioning based on seasonal demand[cite: 18].
+
+### 🛒 Retail Sales Performance Dashboard
+* [cite_start]**Tech Stack:** MySQL, Google Looker Studio, Spreadsheets[cite: 22, 23].
+* [cite_start]**Overview:** Architected an interactive analytics dashboard to monitor Key Performance Indicators (KPIs) including total revenue and monthly sales trends[cite: 22]. 
+* [cite_start]**Highlights:** Engineered robust data pipelines and executed advanced preprocessing on 9,000+ historical records via Spreadsheets to guarantee 100% data integrity[cite: 23].
+* [cite_start]**Impact:** Uncovered distinct customer purchasing patterns, delivering intuitive visual reports to stakeholders that directly informed stock allocation strategies[cite: 24].
+
+## 🎓 Fellowships & Intensive Training
+* [cite_start]**Cloud Computing Trainee (AWS re/Start)** - Orbit Future Academy[cite: 26, 28]. [cite_start]Configured and deployed scalable cloud infrastructure utilizing AWS core services[cite: 29].
+* [cite_start]**Data Scientist (Intermediate Level)** - Indosat Ooredoo Hutchison[cite: 30, 32]. [cite_start]Developed predictive models and applied machine learning algorithms using Python[cite: 33].
+* [cite_start]**Business Intelligence Analyst Program** - Binar Academy[cite: 34, 36]. [cite_start]Constructed comprehensive ETL workflows to extract and transform relational database records[cite: 37].
+
+## 🏆 Key Certifications
+* [cite_start]**Google Business Intelligence Professional Certificate** - Google x Coursera[cite: 55, 56].
+* [cite_start]**Associate Data Scientist & Analyst Certifications** - Datacamp[cite: 61, 63].
+* [cite_start]**Microsoft Certified Educator (MCE)** - Microsoft[cite: 59].
+* [cite_start]**Google Project Management Professional Certificate** - Google x Coursera[cite: 65].
+
+## 📫 Let's Connect!
+* [cite_start]**LinkedIn:** [linkedin.com/in/yayankurniawan2](https://linkedin.com/in/yayankurniawan2/) [cite: 2]
+* [cite_start]**Email:** yayankurniawan.ti@gmail.com [cite: 2]
