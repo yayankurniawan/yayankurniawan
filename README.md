@@ -1,45 +1,32 @@
-<div align="center">
-  <h1>Hi there! 👋 I'm Yayan Kurniawan</h1>
-  <h3>Data Analyst | Data Scientist | Industrial Engineer</h3>
-  [cite_start]<p>Results-driven Data Analyst and Industrial Engineering graduate specializing in data visualization, advanced SQL, and predictive analytics[cite: 4].</p>
-</div>
+# Hi 👋, I'm Yayan Kurniawan
 
----
+### Data Analyst | Turning complex data into actionable insights
 
-## 🚀 About Me
-[cite_start]I have a proven track record of translating complex datasets into strategic business insights and interactive dashboards to drive data-informed decision-making[cite: 5]. [cite_start]With a strong foundation in process optimization and cross-functional problem-solving, I also utilize AWS cloud expertise to build scalable, future-ready data solutions[cite: 6]. [cite_start]Currently based in Garut, Indonesia[cite: 2].
+- 🔭 I'm currently working on **an automated sales dashboard using Power BI and SQL**
 
-## 🛠️ Core Skills & Technologies
-* [cite_start]**Data Visualization & Analytics:** Google Looker Studio, Tableau, Power BI, Advanced Spreadsheets, Exploratory Data Analysis (EDA)[cite: 8].
-* [cite_start]**Programming & Machine Learning:** Advanced SQL, Python (Pandas, NumPy, Seaborn, Matplotlib), Predictive Modeling, ML Algorithms[cite: 9].
-* [cite_start]**Data Engineering & Cloud:** AWS Core Services, Docker, PostgreSQL, MySQL, Data Pipeline Orchestration[cite: 10].
-* [cite_start]**Administration & Business:** Risk Analysis, Process Optimization, Technical Communication, Cross-functional Leadership[cite: 11].
+- 🌱 I'm currently learning **Advanced Python for Data Science and Machine Learning**
 
-## 📊 Featured Projects
+- 👯 I'm looking to collaborate on **open source data analysis projects and datasets**
 
-### 🚲 Bike Sharing Data Analytics & Optimization
-* [cite_start]**Tech Stack:** Python (Pandas, NumPy, Matplotlib), Streamlit[cite: 16, 17].
-* [cite_start]**Overview:** Spearheaded end-to-end exploratory data analysis (EDA) on a bike-sharing operational dataset of 18,000+ records[cite: 16].
-* [cite_start]**Highlights:** Designed and deployed a dynamic web-based dashboard via Streamlit to visualize critical metrics regarding weather impacts and user behavior patterns[cite: 17]. 
-* [cite_start]**Impact:** Translated data findings into actionable distribution strategies to optimize future bike fleet positioning based on seasonal demand[cite: 18].
+- 🤝 I'm looking for help with **building end-to-end data pipelines**
 
-### 🛒 Retail Sales Performance Dashboard
-* [cite_start]**Tech Stack:** MySQL, Google Looker Studio, Spreadsheets[cite: 22, 23].
-* [cite_start]**Overview:** Architected an interactive analytics dashboard to monitor Key Performance Indicators (KPIs) including total revenue and monthly sales trends[cite: 22]. 
-* [cite_start]**Highlights:** Engineered robust data pipelines and executed advanced preprocessing on 9,000+ historical records via Spreadsheets to guarantee 100% data integrity[cite: 23].
-* [cite_start]**Impact:** Uncovered distinct customer purchasing patterns, delivering intuitive visual reports to stakeholders that directly informed stock allocation strategies[cite: 24].
+- 💬 Ask me about **SQL, Python, Tableau, and Excel**
 
-## 🎓 Fellowships & Intensive Training
-* [cite_start]**Cloud Computing Trainee (AWS re/Start)** - Orbit Future Academy[cite: 26, 28]. [cite_start]Configured and deployed scalable cloud infrastructure utilizing AWS core services[cite: 29].
-* [cite_start]**Data Scientist (Intermediate Level)** - Indosat Ooredoo Hutchison[cite: 30, 32]. [cite_start]Developed predictive models and applied machine learning algorithms using Python[cite: 33].
-* [cite_start]**Business Intelligence Analyst Program** - Binar Academy[cite: 34, 36]. [cite_start]Constructed comprehensive ETL workflows to extract and transform relational database records[cite: 37].
+- 📫 How to reach me **yayankurniawan.ti@gmail.com**
 
-## 🏆 Key Certifications
-* [cite_start]**Google Business Intelligence Professional Certificate** - Google x Coursera[cite: 55, 56].
-* [cite_start]**Associate Data Scientist & Analyst Certifications** - Datacamp[cite: 61, 63].
-* [cite_start]**Microsoft Certified Educator (MCE)** - Microsoft[cite: 59].
-* [cite_start]**Google Project Management Professional Certificate** - Google x Coursera[cite: 65].
+- 👨‍💻 All of my projects are available at **[https://github.com/yayankurniawan](https://github.com/yayankurniawan)**
 
-## 📫 Let's Connect!
-* [cite_start]**LinkedIn:** [linkedin.com/in/yayankurniawan2](https://linkedin.com/in/yayankurniawan2/) [cite: 2]
-* [cite_start]**Email:** yayankurniawan.ti@gmail.com [cite: 2]
+- 📝 I regularly write articles on **[https://medium.com/@yayankurniawan.ti](https://medium.com/@yayankurniawan.ti)**
+
+- 📄 Know about my experiences **[https://canva.link/7r0av865y20qi03](https://canva.link/7r0av865y20qi03)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/yayankurniawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="yayankurniawan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yayankurniawan2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yayankurniawan2/" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@yayankurniawan.ti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@yayankurniawan.ti" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gradio" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/gradio/FF7C00" alt="gradio" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mlflow" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="mlflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
+
